@@ -133,7 +133,7 @@ bod/*y{
   background-color: lightsalmon;
 }*/
 
-#recent-activity-table.td {
-  padding-top: 0.1em;
-  padding-bottom: 0.1em;
+#recent-activity-table td {
+    padding-bottom: 0.7em;
+    padding-top: 0.7em;
 }
