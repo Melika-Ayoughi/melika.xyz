@@ -134,6 +134,6 @@ bod/*y{
 }*/
 
 #recent-activity-table td {
-    padding-bottom: 0.7em;
-    padding-top: 0.7em;
+    padding-bottom: 0.7em !important;
+    padding-top: 0.7em !important;
 }
